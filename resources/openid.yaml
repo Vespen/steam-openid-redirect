@@ -1,0 +1,4 @@
+# OpenID configuration.
+openID:
+  # Redirect URL.
+  redirectUrl: ""
