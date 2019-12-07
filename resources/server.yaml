@@ -1,0 +1,6 @@
+# Server configuration.
+server:
+  # Address.
+  addr: ""
+  # Port.
+  port: ""
